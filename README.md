@@ -1,0 +1,1 @@
+# redhat-vagrant-dev-bpms6
